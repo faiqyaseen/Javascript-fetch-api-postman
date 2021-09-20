@@ -1,0 +1,12 @@
+video link:  
+https://www.youtube.com/watch?v=g0gLojpleAg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=63&t=1s  
+
+GET API:
+https://randomuser.me/api/
+
+ 
+POST API:
+https://jsonplaceholder.typicode.com/
+
+Prism:
+https://prismjs.com/
